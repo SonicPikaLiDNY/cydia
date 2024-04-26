@@ -1,0 +1,24 @@
+<package>
+	<id>com.sonicpika.oldyoutube</id>
+	<name>Classic YouTube App [iOS 6 only!]</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>6.0</miniOS>
+			<maxiOS>6.1.6</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>A port of the iOS 5 YouTube app for iOS 6. Install TubeFixer for this app to work!</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
