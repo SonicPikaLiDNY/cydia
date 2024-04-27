@@ -1,0 +1,22 @@
+<package>
+	<id>com.sonicpika.appsync</id>
+	<name>AppSync [App installer]</name>
+	<version>78.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>5.0</miniOS>
+			<maxiOS>13.5.4</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>A tweak to install unverified apps</shortDescription>
+	<descriptionlist>
+		<description>A tweak to install unverified apps</description>
+		<description>I recommend installing apps through AppManager</description>
+	</descriptionlist>
+	<changelog>
+		<change>Support for iOS 13.5.1 - iOS 13.5.5 [beta 1]</change>
+	</changelog>
+</package>

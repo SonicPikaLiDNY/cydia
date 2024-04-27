@@ -1,0 +1,10 @@
+<changelog>
+	<changes>
+		<version>78.0</version>
+		<change>Support for iOS 13.5.1 - iOS 13.5.5 [beta 1]</change>
+	</changes>
+	<changes>
+		<version>76.0</version>
+		<change>Support for iOS 13.5.0</change>
+	</changes>
+</changelog>
