@@ -1,28 +1,28 @@
-Package: com.sonicpika.filza
-Version: 1.0
+Package: com.sonicpika.appsync
+Version: 78.0
 Section: Tweaks
-Maintainer: TiGisoftware <info@tigisoftware.com>
-Depends: firmware (>7.0), mobilesubstrate
+Maintainer: Karen <karen@akemi.ai>
+Depends: firmware (>5.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.sonicpika.filza_1.0_iphoneos-arm.deb
-Size: 854
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
-Description: This is a sample new package. Firmware should be greater than 7.0
-Name: New Package
+Filename: ./debs/com.sonicpika.appsync_78.0_iphoneos-arm.deb
+Size: 42210
+MD5sum: 9e324b47dc9dfca5e8d1c104ad46d1ce
+Description: A tweak to install unverified apps
+Name: AppSync
 Author: SonicPika <sonicpika@lidny.online>
-Depiction: https://sonicpikarepo.github.io/repo/depictions/?p=com.sonicpika.filza
+Depiction: https://sonicpikarepo.github.io/repo/depictions/?p=com.sonicpika.appsync
 
-Package: com.supermamon.oldpackage
+Package: com.sonicpika.oldyoutube
 Version: 1.0.0-1
 Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (<7.0)
+Maintainer: Emma <reposithree@gmail.com>
+Depends: firmware (>6.0, <6.16)
 Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
-Size: 860
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Description: This is a sample old package. Firmware should be lower than 7.0
-Name: Old Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+Filename: ./debs/com.sonicpika.oldyoutube_1.0_iphoneos-arm.deb
+Size: 313298
+MD5sum: 0a3c1802848b95f4b9c2148ad172523b
+Description: A port of the iOS 5 YouTube app for iOS 6.
+Name: Classic YouTube App
+Author: SonicPika <sonicpika@lidny.online>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.sonicpika.oldyoutube
 
