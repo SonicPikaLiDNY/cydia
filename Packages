@@ -10,7 +10,7 @@ MD5sum: 9e324b47dc9dfca5e8d1c104ad46d1ce
 Description: A tweak to install unverified apps
 Name: AppSync
 Author: SonicPika <sonicpika@lidny.online>
-Depiction: https://sonicpikarepo.github.io/repo/depictions/?p=com.sonicpika.appsync
+Depiction: https://sonicpikalidny.github.io/cydia/depictions/?p=com.sonicpika.appsync
 
 Package: com.sonicpika.oldyoutube
 Version: 1.0.0-1
@@ -24,5 +24,5 @@ MD5sum: 0a3c1802848b95f4b9c2148ad172523b
 Description: A port of the iOS 5 YouTube app for iOS 6.
 Name: Classic YouTube App
 Author: SonicPika <sonicpika@lidny.online>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.sonicpika.oldyoutube
+Depiction: https://sonicpikalidny.github.io/cydia/depictions/?p=com.sonicpika.oldyoutube
 
