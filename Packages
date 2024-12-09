@@ -16,7 +16,7 @@ Package: com.sonicpika.oldyoutube
 Version: 1.0.0-1
 Section: Tweaks
 Maintainer: Emma <reposithree@gmail.com>
-Depends: firmware (>6.0, <6.16)
+Depends: firmware (>6.0, <6.1.6)
 Architecture: iphoneos-arm
 Filename: ./debs/com.sonicpika.oldyoutube_1.0_iphoneos-arm.deb
 Size: 313298
